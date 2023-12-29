@@ -1,0 +1,7 @@
+boot.png:
+  type: bopti-image
+  name: img_boot
+
+below_bar.png:
+  type: bopti-image
+  name: img_below_bar
